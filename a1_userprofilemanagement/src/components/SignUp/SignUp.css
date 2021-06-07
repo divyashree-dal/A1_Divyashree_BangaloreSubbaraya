@@ -1,0 +1,34 @@
+.inside {
+    padding-right: 20px; 
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin-top:0;
+    margin-right:auto;
+    margin-bottom:0;
+    margin-left:auto; 
+    
+  }
+  
+.mainContainer {
+  padding: 4%; 
+  display: flex;
+  justify-content: center;
+  height: 80%;
+  align-items: center;
+  position: relative;
+  flex-direction: column;
+}
+
+.typoText {
+
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.getcenter {
+  margin-top:0;
+  margin-right:auto;
+  margin-bottom:0;
+  margin-left:auto;
+}

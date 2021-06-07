@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+##Assignment 1 Individual Submission
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This individual part of assignment 1 consists of creating a semi functional prototype for the task user registration form, its validations using React.
+Chosen Intended Feature: User Profile Management
+Tasks: User registration, user login, forgot password, and update profile.
+Chosen task for semi-functional prototype: User registration 
 
-## Available Scripts
+* Date Created: 06 06 2021
+* Last Modification Date: 07 06 2021
 
-In the project directory, you can run:
 
-### `npm start`
+## Author
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Divyashree Bangalore Subbaraya (dv520656@dal.ca) – Developer 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* React: Front-end development framework
+* Node: Back-end development framework
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Git repository link
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* https://github.com/divyashree-dal/divyashree-subbaraya-csci5709
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Deployed Application link
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* https://tutorial3activity.herokuapp.com/
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Note
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+I have created Lo-Fidelity prototypes for the entire feature. Due to time constraints, I have developed a semi-functional prototype for one of the tasks i.e. user registration.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Sources Used
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+I have referred the following:
 
-### Code Splitting
+* The main documentations of React and material-ui mainly for detailed syntaxes of different tags like typography, paper, text-fields, forms, checkbox, snake bar, card area, Input Adornment, MuiPhoneNumber, MuiAlert. Moreover, I have also used the material icons for all text fields that are part of the user registration [1].
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Usage of material-ui framework with React [2].  
 
-### Analyzing the Bundle Size
+* The image for the card area on the user registration page [3]. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## References
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[1] "The world's most popular React UI framework - Material-UI", V3.material-ui.com, 2021. [Online] Available at: <https://v3.material-ui.com/> [Accessed: 05 June 2021].
 
-### Advanced Configuration
+[2] "Getting Started – React", Reactjs.org, 2021.[Online] Available at: <https://reactjs.org/docs/getting-started.html> [Accessed: 04 June 2021].
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[3] "Photo by Rachel Park on Unsplash", Unsplash.com, 2021.[Online] Available: <https://unsplash.com/photos/hrlvr2ZlUNk> [Accessed: 07 June 2021].
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
